@@ -2,6 +2,6 @@
     functions = "functions"
 
 [[redirects]]
-    to = "/.netlify/functions/dash/:splat"
+    to = "wth-portifolio.netlify.app/:splat"
     from = "/*"
     status = 200
