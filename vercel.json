@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "./functions/dash.js",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/"
+    }
+  ]
+}
