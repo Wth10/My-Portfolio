@@ -1,6 +1,6 @@
 {
   "name": "my-portfolio",
-  "version": "1.0.",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
     "tailwind": "npx tailwindcss -i ./src/style/tailwind.css -o ./dist/style/tailwind.css --watch"
